@@ -1,0 +1,35 @@
+#Clouds
+
+-Home
+-About
+	-Cassandra
+-Contact
+
+-What's a Cloud
+	- Varieties
+	- Water Vapor
+ 	- Formation
+-Types of Clouds
+	- Cumulus
+	- Stratus
+	- Cirrus
+	- Precipitation 
+	- Cirriform
+	- Cumuliform
+	- cumulonimbiform
+	- stratiform
+	- stratocumuliform
+	- cross-classified
+-Physical Categories of Clouds
+	- Water Vapor
+	- Low
+	- High
+	- Middle
+	- Vertical
+	- Varieties
+	- Formation
+-Weather related
+	- Clouds and Weather Forecasting
+	- Effects on Climate
+	- Precipitation
+	- Coloration
