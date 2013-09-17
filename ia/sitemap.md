@@ -1,15 +1,15 @@
 #Clouds
 
--Home
--About
-	-Cassandra
--Contact
+- Home
+- About
+	- Cassandra
+- Contact
 
--What's a Cloud
+- What's a Cloud
 	- Varieties
 	- Water Vapor
- 	- Formation
--Types of Clouds
+	- Formation
+- Types of Clouds
 	- Cumulus
 	- Stratus
 	- Cirrus
@@ -20,7 +20,7 @@
 	- stratiform
 	- stratocumuliform
 	- cross-classified
--Physical Categories of Clouds
+- Physical Categories of Clouds
 	- Water Vapor
 	- Low
 	- High
@@ -28,7 +28,7 @@
 	- Vertical
 	- Varieties
 	- Formation
--Weather related
+- Weather related
 	- Clouds and Weather Forecasting
 	- Effects on Climate
 	- Precipitation
