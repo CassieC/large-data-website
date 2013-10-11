@@ -1,0 +1,41 @@
+@-mozviewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+	background-color: #ccc;
+	font: normal 100%/1.4 Georgia, "Times New Roman", Times, serif;
+	background-position: top center;
+}
+
+.background-box{
+	width:100%;
+	background-color: #fff;
+}
+
+
+nav ul {
+	list-style-type: none;
+	text-align: center;
+	color: #1CBBB4;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a,
+nav a:link,
+nav a:visited {
+	display: inline-block;
+	margin: 0 1%;
+	padding: 1.5% 3%;
+	color: #555 ;
+	text-decoration: none;
+}
+
+nav .selected {
+	background-color: #1CBBB4;
+}
