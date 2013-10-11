@@ -12,9 +12,21 @@ html {
 
 .background-box{
 	width:100%;
-	background-color: #fff;
+	background-color: #FC0;
 }
 
+h1{
+	position: left;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 1.2em;
+	color: #1CBBB4;
+	padding: .5em;
+}
+
+p{
+	padding: .5em;
+	text-align:left
+}
 
 nav ul {
 	list-style-type: none;
@@ -39,3 +51,100 @@ nav a:visited {
 nav .selected {
 	background-color: #1CBBB4;
 }
+
+.searchbar {
+float: right;
+}
+
+figure{
+	background-color: #fff
+}
+
+.home-cloud{
+	width: 100%;
+	padding: 1em;
+}
+
+footer{
+	width:100%;
+	background-color: #FC0;
+}
+	
+
+@media only screen and (min-width: 25em) {
+	
+	figure{
+		width:100%;
+	}
+	
+	h1{
+	position: left;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 1.2em;
+	}
+	
+	nav{
+		display: inline;
+		position: center;
+		max-width: 5em;
+	}
+	
+	.home-cloud{
+		display: inline;
+		position: center;
+		width: 100%;
+	}
+
+}
+
+@media only screen and (min-width: 37em) {
+	
+	figure{
+		width:100%;
+	}
+	
+	h1{
+	position: left;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 2.5em;
+	}
+	.home-cloud{
+		display: inline;
+		position: center;
+		width: 100%;
+	}
+	
+	p{
+	position: left;
+	font: Verdana, Geneva, sans-serif;
+	font-size: .8em;
+	}	
+}
+
+@media only screen and (min-width: 150em) {
+	h1{
+	position: left;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 3em;
+	}
+	
+	nav{
+		display: inline;
+		position: center;
+		max-width: 12em;
+	}
+	
+	p{
+	position: left;
+	font: Verdana, Geneva, sans-serif;
+	font-size: 1.5em;
+	}
+
+	.home-cloud{
+	width:70%;
+	padding: 1em;
+	display:inline;
+}
+	
+}
+
