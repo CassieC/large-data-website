@@ -8,11 +8,13 @@ html {
 	background-color: #ccc;
 	font: normal 100%/1.4 Georgia, "Times New Roman", Times, serif;
 	background-position: top center;
+	margin: 0;
 }
 
 .background-box{
 	width:100%;
 	background-color: #FC0;
+	margin: 0;
 }
 
 h1{
@@ -57,17 +59,23 @@ float: right;
 }
 
 figure{
-	background-color: #fff
+	background-color: #fff;
+	margin:0;
 }
 
 .home-cloud{
 	width: 100%;
 	padding: 1em;
+	margin: 0;
+}
+
+.copyright{
+	color: #fff;
 }
 
 footer{
 	width:100%;
-	background-color: #FC0;
+	background-color: #374665;
 }
 	
 
