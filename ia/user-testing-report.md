@@ -46,7 +46,7 @@ User testing was conducted by Cassandra Chartrand on Oct.22 2013 between the tim
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-
+- Nothing was mentioned
 
 ### Minor, Annoying, Won’t Hinder Completion
 
