@@ -4,7 +4,7 @@ User testing was conducted by Cassandra Chartrand on Oct.22 2013 between the tim
 
 - Andy Ham
 - Stephanie Cansfield
-- {Jordan Doe}
+- Lisa Beaton
 
 ## Tasks
 
