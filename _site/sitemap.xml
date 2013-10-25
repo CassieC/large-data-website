@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+	   <!-- The full URL the page, including the domain -->
+      <loc>http://cassiec/large-data-website/index.html</loc>
+	  <lastmod>2013-10-13</lastmod>
+	  <changefreq>monthly</changefreq>
+	  <!--
+	  Change frequency: how often you expect this page to change
+	  -never
+	  -yearly
+	  -monthly
+	  -weekly
+	  -daily
+	  -always
+	  -->
+	  <priority>0.8</priority>
+	  <!--
+	  Priority: how important this page is to your whole site (optional)
+	  0.1 - 1.0
+	  Default: 0.5
+	  -->
+	</url>
+	
+	<url>
+	<loc>http://cassiec/large-data-website/index.html</loc>
+	</url>
+
+</urlset> 

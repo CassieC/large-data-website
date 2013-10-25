@@ -1,0 +1,8 @@
+#robots.txt should be in the same folder as your index.html
+#At the root of your domain, e.g. clouds.com/robots.txt
+
+#The path to find our sitemap file
+Sitema: http://cassiec/large-data-website/index.html
+
+#User-Agent: *
+#Disallow: /img
