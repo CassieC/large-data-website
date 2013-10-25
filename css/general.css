@@ -25,6 +25,24 @@ h1{
 	padding: .5em;
 }
 
+.media{
+	overflow: hidden;
+}
+
+.media-title{
+	margin: 0;
+	font-size: 1rem;
+	font-weight: bold;
+}
+
+
+
+.media-img-reversed{
+	float:right;
+	margin-right:0;
+	margin-left:10px;
+}
+
 p{
 	padding: .5em;
 	text-align:left
