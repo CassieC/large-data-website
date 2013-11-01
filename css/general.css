@@ -35,6 +35,15 @@ h1{
 	font-weight: bold;
 }
 
+.unit {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  letter-spacing: normal;
+  text-rendering: auto;
+  vertical-align: top;
+  word-spacing: normal;
+}
 
 
 .media-img-reversed{
