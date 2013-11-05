@@ -8,7 +8,12 @@
 <meta name="mobileoptimized" content="240">
 <meta name="viewport" content="width=device-width;initial-scale=1">
 </head>
-<body>
+<body id="top">
+
+<ul class="skiplinks">
+	<li><a href="#main">Skip to primary content</a></li>
+	<li><a href="#navigation">Skip to navigation</a></li>
+</ul>
 
     <link href="css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
@@ -28,7 +33,7 @@
           </a>
           <a class="brand" href="index.html">Clouds</a>
           <div class="nav-collapse">
-            <ul class="nav">
+            <ul class="nav" id="navigation">
               <li class="active"><a href="index.html">Home</a></li>
               <li><a href="#about">Weather</a></li>
               <li class="dropdown">
@@ -102,11 +107,11 @@
       <!-- end carousel -->
 
       <!-- Example row of columns -->
-      <div class="row">
+      <div class="row" main role="main" id="main">
         <div class="span4">
           <h2>What is a cloud?</h2>
            <p>A cloud is a visible mass of liquid droplets or frozen crystals made of water or various chemicals suspended in the atmosphere above the surface of a planetary body. These suspended particles are also known as aerosols and are studied in the cloud physics branch of meteorology.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          <p><a class="btn" href="#">View details &raquo;</a></p></main>
         </div> <div class="span4">
           <h2>How do Clouds Form</h2>
            <p>Clouds form when rising air, through expansion, cools to the point where some of the water vapor molecules "clump together" faster than they are torn apart by their thermal energy. Some of that (invisible) water vapor condenses to form (visible) cloud droplets or ice crystals. </p>
@@ -142,8 +147,9 @@
 
 <div class="background-box">
 
- <footer>
+ <footer role="contentinfo">
 		<p class="copyright">©2013 C Chartrand. All Rights Reserved</p>
+		<a href="#top"</a>
 </footer>
 
 
