@@ -141,6 +141,12 @@ figure{
 	margin: 0;
 }
 
+.weather-table{
+	width:100%;
+	padding:1em;
+	margin:0;
+}
+
 .copyright{
 	color: #fff;
 }
